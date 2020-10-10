@@ -1,5 +1,5 @@
 # binary-image-classification-using-CNN
-Binary image classification using neural networks
+Binary image classification using convolutional neural networks and image processing
 The data for this can be customized 
 the data should be given in the form of images
 it should be classified according to your binary type eg:cat and dog images in seperate files but inside the same folder
