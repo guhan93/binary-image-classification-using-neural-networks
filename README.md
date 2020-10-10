@@ -1,4 +1,4 @@
-# binary-image-classification-using-neural-networks
+# binary-image-classification-using-CNN
 Binary image classification using neural networks
 The data for this can be customized 
 the data should be given in the form of images
